@@ -1,0 +1,129 @@
+C:\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+C:\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+C:\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Clientes.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.VentanaPrincipal.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Productos.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.comprobante.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Reporte.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Generadorfecha.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Facturacion\Facturacion\obj\Debug\RdlCompile.cache
+C:\Facturacion\Facturacion\obj\Debug\RdlCompile.compiled
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.controlventas.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Admcli.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.AdmPro.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.FacComprobanteFis.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Massx.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.CreFiscal.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Form1.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.ReporteFiscal.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.NotaRemision.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.MaxxCreditoFiscal.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.ReportedeNDRE.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.ConsumidorFinalFaccccc.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.MasConsimiFi.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.RegistrosFacturas.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.RegimenesEspeciales.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.maxregimenesesp.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.ReporteRegimenesESP.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Ayuda.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.baseeee.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.maxnoteremision.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.ExportWithExel.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.FormInicioCarg.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Form2.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.NOTTTT.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Form3.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.AboutBox1.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.AboutBox1.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Admcli.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.AdmPro.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Ayuda.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.baseeee.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Clientes.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.comprobante.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.ConsumidorFinalFaccccc.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.controlventas.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.CreFiscal.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.ExportWithExel.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.FacComprobanteFis.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Form1.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Form2.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Form3.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.FormInicioCarg.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Generadorfecha.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.MasConsimiFi.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Massx.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.maxnoteremision.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.maxregimenesesp.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.MaxxCreditoFiscal.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.NotaRemision.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.NOTTTT.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Productos.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.RegimenesEspeciales.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.RegistrosFacturas.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Reporte.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.ReportedeNDRE.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.ReporteFiscal.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.ReporteRegimenesESP.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.VentanaPrincipal.resources
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\Venta\Facturacion\Facturacion\obj\Debug\RdlCompile.compiled
+E:\Venta\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+E:\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+E:\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.AboutBox1.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Admcli.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.AdmPro.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Ayuda.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.baseeee.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Clientes.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.comprobante.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.ConsumidorFinalFaccccc.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.controlventas.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.CreFiscal.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.ExportWithExel.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.FacComprobanteFis.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Form1.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Form2.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Form3.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.FormInicioCarg.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Generadorfecha.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.MasConsimiFi.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Massx.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.maxnoteremision.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.maxregimenesesp.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.MaxxCreditoFiscal.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.NotaRemision.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.NOTTTT.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Productos.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.RegimenesEspeciales.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.RegistrosFacturas.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.Reporte.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.ReportedeNDRE.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.ReporteFiscal.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.ReporteRegimenesESP.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.VentanaPrincipal.resources
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\RdlCompile.cache
+C:\Users\Jonathan T.-PC\Desktop\memoria ubuntu\Venta\Facturacion\Facturacion\obj\Debug\RdlCompile.compiled

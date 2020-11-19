@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BDRGHConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BDRGHConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Facturacion.Properties.Settings.GlobalReference.Default.BDRGHConnectionString" Provider="Microsoft.SqlServerCe.Client.4.0" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BDRGHConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill22" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill22" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill22">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Fac4.*, CliFac3.*, FacTip.*
+FROM            Fac4 CROSS JOIN
+                         CliFac3 CROSS JOIN
+                         FacTip</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CodPro" DataSetColumn="CodPro" />
+              <Mapping SourceColumn="CantPro" DataSetColumn="CantPro" />
+              <Mapping SourceColumn="PresentPro" DataSetColumn="PresentPro" />
+              <Mapping SourceColumn="DescripPro" DataSetColumn="DescripPro" />
+              <Mapping SourceColumn="PrecioUpro" DataSetColumn="PrecioUpro" />
+              <Mapping SourceColumn="SubTpro" DataSetColumn="SubTpro" />
+              <Mapping SourceColumn="ItbisProo" DataSetColumn="ItbisProo" />
+              <Mapping SourceColumn="PrecioToPro" DataSetColumn="PrecioToPro" />
+              <Mapping SourceColumn="NomCli." DataSetColumn="NomCli_" />
+              <Mapping SourceColumn="RNC_No" DataSetColumn="RNC_No" />
+              <Mapping SourceColumn="Direccion." DataSetColumn="Direccion_" />
+              <Mapping SourceColumn="Telefono." DataSetColumn="Telefono_" />
+              <Mapping SourceColumn="Fax." DataSetColumn="Fax_" />
+              <Mapping SourceColumn="Ret." DataSetColumn="Ret_" />
+              <Mapping SourceColumn="ValidaHasta" DataSetColumn="ValidaHasta" />
+              <Mapping SourceColumn="Fecha" DataSetColumn="Fecha" />
+              <Mapping SourceColumn="OrdenCompra" DataSetColumn="OrdenCompra" />
+              <Mapping SourceColumn="FormaPago" DataSetColumn="FormaPago" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodPro" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnCodPro" msprop:Generator_ColumnPropNameInRow="CodPro" msprop:Generator_ColumnPropNameInTable="CodProColumn" msprop:Generator_UserColumnName="CodPro" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CantPro" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnCantPro" msprop:Generator_ColumnPropNameInRow="CantPro" msprop:Generator_ColumnPropNameInTable="CantProColumn" msprop:Generator_UserColumnName="CantPro" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PresentPro" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPresentPro" msprop:Generator_ColumnPropNameInRow="PresentPro" msprop:Generator_ColumnPropNameInTable="PresentProColumn" msprop:Generator_UserColumnName="PresentPro" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DescripPro" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDescripPro" msprop:Generator_ColumnPropNameInRow="DescripPro" msprop:Generator_ColumnPropNameInTable="DescripProColumn" msprop:Generator_UserColumnName="DescripPro" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PrecioUpro" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPrecioUpro" msprop:Generator_ColumnPropNameInRow="PrecioUpro" msprop:Generator_ColumnPropNameInTable="PrecioUproColumn" msprop:Generator_UserColumnName="PrecioUpro" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SubTpro" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnSubTpro" msprop:Generator_ColumnPropNameInRow="SubTpro" msprop:Generator_ColumnPropNameInTable="SubTproColumn" msprop:Generator_UserColumnName="SubTpro" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ItbisProo" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnItbisProo" msprop:Generator_ColumnPropNameInRow="ItbisProo" msprop:Generator_ColumnPropNameInTable="ItbisProoColumn" msprop:Generator_UserColumnName="ItbisProo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PrecioToPro" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPrecioToPro" msprop:Generator_ColumnPropNameInRow="PrecioToPro" msprop:Generator_ColumnPropNameInTable="PrecioToProColumn" msprop:Generator_UserColumnName="PrecioToPro" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NomCli_" msdata:ReadOnly="true" msdata:Caption="NomCli." msprop:Generator_ColumnVarNameInTable="columnNomCli_" msprop:Generator_ColumnPropNameInRow="NomCli_" msprop:Generator_ColumnPropNameInTable="NomCli_Column" msprop:Generator_UserColumnName="NomCli_" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RNC_No" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnRNC_No" msprop:Generator_ColumnPropNameInRow="RNC_No" msprop:Generator_ColumnPropNameInTable="RNC_NoColumn" msprop:Generator_UserColumnName="RNC_No" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Direccion_" msdata:ReadOnly="true" msdata:Caption="Direccion." msprop:Generator_ColumnVarNameInTable="columnDireccion_" msprop:Generator_ColumnPropNameInRow="Direccion_" msprop:Generator_ColumnPropNameInTable="Direccion_Column" msprop:Generator_UserColumnName="Direccion_" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Telefono_" msdata:ReadOnly="true" msdata:Caption="Telefono." msprop:Generator_ColumnVarNameInTable="columnTelefono_" msprop:Generator_ColumnPropNameInRow="Telefono_" msprop:Generator_ColumnPropNameInTable="Telefono_Column" msprop:Generator_UserColumnName="Telefono_" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Fax_" msdata:ReadOnly="true" msdata:Caption="Fax." msprop:Generator_ColumnVarNameInTable="columnFax_" msprop:Generator_ColumnPropNameInRow="Fax_" msprop:Generator_ColumnPropNameInTable="Fax_Column" msprop:Generator_UserColumnName="Fax_" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Ret_" msdata:ReadOnly="true" msdata:Caption="Ret." msprop:Generator_ColumnVarNameInTable="columnRet_" msprop:Generator_ColumnPropNameInRow="Ret_" msprop:Generator_ColumnPropNameInTable="Ret_Column" msprop:Generator_UserColumnName="Ret_" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ValidaHasta" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnValidaHasta" msprop:Generator_ColumnPropNameInRow="ValidaHasta" msprop:Generator_ColumnPropNameInTable="ValidaHastaColumn" msprop:Generator_UserColumnName="ValidaHasta" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Fecha" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnFecha" msprop:Generator_ColumnPropNameInRow="Fecha" msprop:Generator_ColumnPropNameInTable="FechaColumn" msprop:Generator_UserColumnName="Fecha" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OrdenCompra" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnOrdenCompra" msprop:Generator_ColumnPropNameInRow="OrdenCompra" msprop:Generator_ColumnPropNameInTable="OrdenCompraColumn" msprop:Generator_UserColumnName="OrdenCompra" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FormaPago" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnFormaPago" msprop:Generator_ColumnPropNameInRow="FormaPago" msprop:Generator_ColumnPropNameInTable="FormaPagoColumn" msprop:Generator_UserColumnName="FormaPago" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
